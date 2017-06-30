@@ -80,7 +80,7 @@ DATABASES = {
         'NAME': 'djangogirls',
         'USER': 'admin',
         'PASSWORD': '',
-        'HOST': 'localhost',
+        'HOST': 'pengyingh.pythonanywhere.com',
         'PORT': '',
     }
 }
